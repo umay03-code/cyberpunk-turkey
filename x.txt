@@ -1,2 +1,1 @@
-print("sup chooms?");
-print("time to wake up!");
+print("wassup chooms?");
